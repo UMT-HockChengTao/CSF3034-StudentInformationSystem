@@ -2,7 +2,7 @@ package studentinformationsystem;
 
 /************************************
 *Author: Hock Cheng Tao
-*Program Name: StudentProfile.java
+*Program Name: StudentInformationSystem.java
 *Description: To create a Java program that will be managed using Git
 *Date: 21 October 2026
 *Modified Date: None
