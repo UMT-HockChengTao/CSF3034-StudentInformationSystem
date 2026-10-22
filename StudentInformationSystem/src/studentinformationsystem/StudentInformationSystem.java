@@ -13,7 +13,7 @@ public class StudentInformationSystem {
 
     public static void main(String[] args) {
         /* Display student name and student ID */
-        System.out.println("Name: Hock Cheng Tao");
+        System.out.println("Name: Hock Cheng Tao ");
         System.out.println("Student ID: S87348");
         
     }
